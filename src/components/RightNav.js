@@ -12,12 +12,12 @@ const RightNav = () => {
 		// Hardcoded list of profiles to follow
 		// BUILDOOOORS: Add your own profiles to this list
 		const profiles = [
-			"AlexHuk.test",
 			"llamakahlo.test",
 			"llamaanime.test",
 			"llamablackandwhite.test",
 			"llamafigurine.test",
 			"llamabasquiat.test",
+			"terlia.test"
 		];
 		// Shuffle the order
 		for (let i = profiles.length - 1; i > 0; i--) {
